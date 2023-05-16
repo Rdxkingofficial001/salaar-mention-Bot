@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ SALAAR MENTION ALL BOT ❤️</b></h1>
 
-<h4 align="center">Asad Alexa A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
+<h4 align="center">salaar A Powerful, Smart And Simple And Smart Mention Bot <br> ... Written With Python and Telethon...</h4>
 
 <p align="center"><a href="https://t.me/salaar_op"><img src="[ ](https://graph.org/file/0ee1139f4b7076e4f16b4.jpg)" width="400"></a></p>
 
